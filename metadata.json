@@ -1,0 +1,6 @@
+{
+  "name": "Stages Landscaping - Premium Lawn & Landscape Services",
+  "description": "Professional landscaping services you can rely on. We design, build, and maintain beautiful outdoor spaces for homeowners who want lasting curb appeal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

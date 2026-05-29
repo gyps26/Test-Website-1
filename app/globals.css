@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --color-brand-green: #14532d;
+  --color-brand-green-light: #166534;
+  --color-brand-beige: #fefce8;
+  --color-brand-charcoal: #1e293b;
+  --color-brand-accent: #84cc16;
+}
+
+body {
+  @apply bg-brand-beige text-brand-charcoal antialiased;
+}
+
+/* Hide scrollbar for gallery and smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
